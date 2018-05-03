@@ -1,0 +1,1 @@
+This directory consists of training and test files for predicting the positions for trajectories in which the object moves from left to right. The input is in the form of 2D images and the architecture of the neural network is similar to that of the MNIST network.
